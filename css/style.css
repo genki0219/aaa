@@ -48,14 +48,14 @@ body {
   background: navy;
   grid-column: 1/2;
   grid-row: 4/5;
+  /* position: relative; */
 }
 
 .img {
   width: 722px;
-  position: relative;
-  left: 718px;
-  top:-600px
-  
+  position: absolute;
+  top: 30%;
+  left: 50%;
 }
 
 
