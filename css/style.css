@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .cat1 {
   color:navy;
   display: grid;
@@ -49,10 +53,12 @@
 .img {
   width: 722px;
   position: relative;
-  left: 710px;
+  left: 718px;
   top:-600px
   
 }
+
+
 
 
 
